@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplicationLibrary</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="title_activity_favorite_books">FavoriteBooksActivity</string>
+</resources>
